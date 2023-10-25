@@ -1,18 +1,17 @@
 # Analysis
 
-## Layer TODO, Head TODO
+## Layer 2, Head 7
 
-TODO
-
-Example Sentences:
-- TODO
-- TODO
-
-## Layer TODO, Head TODO
-
-TODO
+This attention head seems to focus on the relationship between verbs and their direct objects.
 
 Example Sentences:
-- TODO
-- TODO
+- The cat chased the mouse.
+- She baked the cake.
 
+## Layer 4, Head 5
+
+This head appears to pay attention to adjectives modifying nouns.
+
+Example Sentences:
+- The quick brown fox jumped over the lazy dog.
+- She wore a beautiful dress.
